@@ -49,3 +49,5 @@ strawberryDonut: {
 - Login/registration page
 - Interactive donut carousel
 - Donut-themed color scheme
+- Gamification
+- Build Your Own Donut
